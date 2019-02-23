@@ -22,9 +22,10 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "firebase": "^5.8.4",
     "firebase-admin": "^6.5.0",
     "react": "16.6.3",
-    "react-native": "0.58.0-rc.2",
+    "react-native": "^0.58.5",
     "react-native-firebase": "^5.2.0",
     "react-navigation": "^3.0.9"
   }

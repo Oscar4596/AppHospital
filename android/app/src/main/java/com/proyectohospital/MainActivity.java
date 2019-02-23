@@ -1,4 +1,4 @@
-package com.jorge.proyectohospital;
+package com.proyectohospital;
 
 import com.facebook.react.ReactActivity;
 
